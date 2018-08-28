@@ -1,0 +1,6 @@
+
+-DmainClass=kr.ac.inje.comsi.user.UserServiceClient
+
+
+driver = org.h2.Driver
+JDBC URL = jdbc:h2:d:/workspace/h2db/db
